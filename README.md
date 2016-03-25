@@ -1,4 +1,4 @@
-# Recursive WSABIE
+# Recursive WSABIE (to be updated)
 
 This program depends upon keras and theano. So make sure to install these with appropriate path provided.  
 
