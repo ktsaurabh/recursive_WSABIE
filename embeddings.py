@@ -9,7 +9,7 @@ from ..layers.core import Layer, MaskedLayer
 from ..utils.theano_utils import sharedX, alloc_zeros_matrix
 
 from ..constraints import unitnorm
-#This is f1
+#This is f1 .. changed
 
 class Embedding(Layer):
     '''
